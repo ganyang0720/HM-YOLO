@@ -7,9 +7,9 @@
 
 <div align="center">
 
-  ![](https://img.shields.io/badge/python-3.10-red)
-  [![](https://img.shields.io/badge/pytorch-2.1.0-red)](https://pytorch.org/)
-  [![](https://img.shields.io/badge/torchvision-0.15.0-red)](https://pypi.org/project/torchvision/)
+  ![](https://img.shields.io/badge/python-3.10.13-red)
+  [![](https://img.shields.io/badge/pytorch-2.0.1-red)](https://pytorch.org/)
+  [![](https://img.shields.io/badge/torchvision-0.15.2-red)](https://pypi.org/project/torchvision/)
   
   
   
