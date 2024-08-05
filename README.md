@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/kappframework-DtBoeZ(1)(1).png" width="400px">
+<img src="https://github.com/ganyang0720/HM-YOLO/blob/main/code/088CFD28C256AA2215B3C9E3A2997560.png" width="400px">
 </div>
 
 # HM-YOLO: An Accurate Strawberry Ripeness Detection Model based on Hybrid Attention Mechanism and Multi-Level Feature Fusion
