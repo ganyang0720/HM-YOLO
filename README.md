@@ -3,12 +3,12 @@
 <img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/kappframework-DtBoeZ(1)(1).png" width="400px">
 </div>
 
-# RCEA-YOLOv8: A strawberry target precision detection method at different ripening stages under a novel attention mechanism
+# HM-YOLO: An Accurate Strawberry Ripeness Detection Model based on Hybrid Attention Mechanism and Multi-Level Feature Fusion
 
 <div align="center">
 
-  ![](https://img.shields.io/badge/python-3.8-red)
-  [![](https://img.shields.io/badge/pytorch-2.0.0-red)](https://pytorch.org/)
+  ![](https://img.shields.io/badge/python-3.10-red)
+  [![](https://img.shields.io/badge/pytorch-2.1.0-red)](https://pytorch.org/)
   [![](https://img.shields.io/badge/torchvision-0.15.0-red)](https://pypi.org/project/torchvision/)
   
   
@@ -29,11 +29,11 @@
 
 ## Dependencies:
 
- - Python 3.8
- - [PyTorch](https://pytorch.org/) 2.0
- - [Torchvision](https://pypi.org/project/torchvision/) 0.15.0
- - Ubuntu 20.04.5 LTS 
- - NVIDIA Tesla P100
+ - Python 3.10.13
+ - [PyTorch](https://pytorch.org/) 2.0.1
+ - [Torchvision](https://pypi.org/project/torchvision/) 0.15.2
+ - Ubuntu 22.04
+ - NVIDIA GeForce RTX4090
    
 
 ## Introduction
@@ -66,7 +66,7 @@ The experiments conducted verified the contribution of the receptive field coord
 </div>
 
 ## The outcomes of our model tested on various datasets.
-To assess the efficacy of the improved model on a variety of datasets, experiments were conducted on four different datasets for both the improved model and the baseline model. The following table presents diverse performance metrics, namely P, R, MAP50, MAP50-95 and Param(M), during training on the SID, StrawDI_Db1, and Internet datasets.
+To assess the efficacy of the improved model on a variety of datasets, experiments were conducted on four different datasets for both the improved model and the baseline model. The following table presents diverse performance metrics, namely P, R, mAP50, mAP50-95 and Param(M), during training on the SID, StrawDI_Db1, and Internet datasets.
 
 <div align="center">
 <img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/shujujiduibi.png" width="600px">
